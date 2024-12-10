@@ -1,0 +1,11 @@
+Welcome to Cloud Shelll Type 'help' to get started.
+Your Cloud Platform project in this session is set to sonorous-folio-436702-v4. Use "gcloud config set project [PROJECT ID] to change to a different project.
+sabellanorly917@cloudshell: sabellanorly917@cloudshell: (sonorous-folio-436702-v4)$ nano latihan2.sh (sonorous-folio-436702-v4)$ cat latihan2.sh
+#!/bin/bash
+nama="Sabella Norly"
+nim-2402073
+saya_login_sebagai_siapa='Bella'
+echo "Sabella Norly
+echo "2402073:*
+echo "Bella:"
+sabellanorly917@cloudshell: (sonorous-folio-436702-v4)$
