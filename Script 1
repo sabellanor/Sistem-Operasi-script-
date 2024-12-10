@@ -1,11 +1,15 @@
-Welcome to Cloud Shelll Type 'help' to get started.
-Your Cloud Platform project in this session is set to sonorous-folio-436702-v4. Use "gcloud config set project [PROJECT ID] to change to a different project.
-sabellanorly917@cloudshell: sabellanorly917@cloudshell: (sonorous-folio-436702-v4)$ nano latihan2.sh (sonorous-folio-436702-v4)$ cat latihan2.sh
-#!/bin/bash
-nama="Sabella Norly"
-nim-2402073
-saya_login_sebagai_siapa='Bella'
-echo "Sabella Norly
-echo "2402073:*
-echo "Bella:"
+rWelcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to sonorous-folio-436702-v4.
+Use "gcloud config set project [PROJECT_ID]" to change to a different project.
+sabellanorly917@cloudshell: (sonorous-folio-436702-v4)$ pwd
+/home/sabellanorly917
+sabellanorly917@cloudshell: (sonorous-folio-436702-v4)$ nano hello.sh
+sabellanorly917@cloudshell: (sonorous-folio-436702-v4)$ chmod +x hello.sh
+sabellanorly917@cloudshell: (sonorous-folio-436702-v4)$/hello.sh
+Buat direktori latianscript dan file coba
+mkdir: missing operand
+Try 'mkdir-help for more information.
+./hello.sh: line 5: lationscript: command not found
+./hello.sh: line 6: lationscript/: No such file or directory
+./hello.sh: line 8: X: command not found
 sabellanorly917@cloudshell: (sonorous-folio-436702-v4)$
